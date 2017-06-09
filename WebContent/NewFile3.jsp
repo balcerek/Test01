@@ -12,5 +12,7 @@ dane lokalne
 =======
 dane zdalne
 >>>>>>> 89e788ee8691b17427c0229d549133ad66d9e256
+    
+    dane22222222
 </body>
 </html>
